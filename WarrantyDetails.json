@@ -1,0 +1,67 @@
+{
+  "data": {
+    "created_date": "2021-10-26 18:33:24.445647+00:00",
+    "customer": {
+      "billing_address_1": "100 main st",
+      "billing_address_2": "",
+      "billing_city": "New York",
+      "billing_country": "United States",
+      "billing_state": "NY",
+      "billing_zip": "10001",
+      "email": "jordan@test.com",
+      "first_name": "Kenneth",
+      "has_reviewed": false,
+      "last_name": "Hughes",
+      "phone": "18126260568",
+      "show_review_prompt": false
+    },
+    "external_order_id": "4180359512213",
+    "id": "f3586e71dbad1241dd99f61d02c3a6f22f",
+    "order_source": "shopify",
+    "order_status_value": "Active",
+    "shipping_address": {
+      "address_1": "100 main st",
+      "address_2": "",
+      "city": "New York",
+      "country": "United States",
+      "created_on": "2021-10-26T18:33:24.442725+00:00",
+      "id": 788496,
+      "merchants": [],
+      "orders": [
+        258832
+      ],
+      "state": "NY",
+      "updated_on": "2021-10-26T18:33:24.442730+00:00",
+      "zip_code": "10001"
+    },
+    "warranties": [
+      {
+        "country_code": "US",
+        "country_name": "United States",
+        "created_date": "2021-10-07 17:49:24.079121+00:00",
+        "currency": "USD",
+        "customer_cost": "276.99",
+        "duration_months": "60",
+        "id": "cff62425afd54b4ad6a28f3bddc233bb69",
+        "line_items": [
+          {
+            "id": "12f739be65adsf5240c5831e2b43ca8fe488",
+            "product": {
+              "external_product_id": "37647091499157",
+              "name": "Deerfield Electric Fireplace Entertainment Center in Antique Brown Cherry - 42MMS90151-PC84",
+              "price": "1199.99"
+            }
+          }
+        ],
+        "meta": null,
+        "policy_terms_url": "https://terms.getmulberry.com/20210210_shield_multiproduct",
+        "program_id": null,
+        "service_type": "repair_replace",
+        "warranty_hash": "d120978adfd2734adf7b48d4fd28201da47ac3949d373722f00e2fdffe89f34f95b",
+        "warranty_offer_id": "5a0badfadaa-ee5d-4922-a570-6698439252c8"
+      }
+    ]
+  },
+  "order_id": "f3586e71db1241dd99f61d02c3a6f22f",
+  "success": true
+}
