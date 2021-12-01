@@ -2,11 +2,41 @@
   "id": 418032259512213,
   "email": "jordan@test.com",
   "phone": "18126260568",
-  "line_items": [
-    
-  ],
-  "source_name": "web",
   "order_number": 30434,
+
+  "line_items": [
+
+    {
+    "id": 10742247030968,
+    "sku": "THEOCHAIR-BB",
+    "name": "Theo Chair - Bone Boucle",
+    "grams": 36287,
+    "price": "3850.00",
+    "title": "Theo Chair",
+    "detail": {
+      "images": [ {
+        "src": "https://cdn.shopify.com/s/files/1/0233/8069/products/shoppe-amber-interiors-theo-armchair-sand.jpg?v=1631295338"
+      }, {
+        "src": "https://cdn.shopify.com/s/files/1/0233/8069/products/shoppe-amber-interiors-7-9-20-2051.jpg?v=1631295338"
+      }, {
+        "src": "https://cdn.shopify.com/s/files/1/0233/8069/products/ShoppeHoliday2021-1298-Edit_0f402d2f-9ef5-40f5-be23-be7b1a071d65.jpg?v=1634594235"
+      }]
+    },
+    "quantity": 1,
+    "product_id": 31251777355870,
+    "variant_id": 31251777355870,
+    "pre_tax_price": "6160.00",
+    "product_price": "3850.00",
+    "product_title": "Theo Chair",
+    "variant_title": "Bone Boucle",
+    "requires_shipping": true,
+    "fulfillment_status": null
+  }
+
+
+  ],
+
+
   "billing_address": {
     "first_name": "Michael",
     "address1": "100 main st",
@@ -24,6 +54,8 @@
     "country_code": "US",
     "province_code": "NY"
   },
+
+
   "shipping_address": {
     "first_name": "Michael",
     "address1": "100 main st",
