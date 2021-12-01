@@ -1,0 +1,44 @@
+{
+  "id": 418032259512213,
+  "email": "jordan@test.com",
+  "phone": "18126260568",
+  "line_items": [
+    
+  ],
+  "source_name": "web",
+  "order_number": 30434,
+  "billing_address": {
+    "first_name": "Michael",
+    "address1": "100 main st",
+    "phone": "12345678900",
+    "city": "New York",
+    "zip": "10001",
+    "state": "New York",
+    "country": "United States",
+    "last_name": "Jordan",
+    "address2": "",
+    "company": "",
+    "latitude": 38.099428,
+    "longitude": -87.5183432,
+    "name": "Michael Jordan",
+    "country_code": "US",
+    "province_code": "NY"
+  },
+  "shipping_address": {
+    "first_name": "Michael",
+    "address1": "100 main st",
+    "phone": "12345678900",
+    "city": "New York",
+    "zip": "10001",
+    "state": "New York",
+    "country": "United States",
+    "last_name": "Jordan",
+    "address2": "",
+    "company": "",
+    "latitude": 38.099428,
+    "longitude": -87.5183432,
+    "name": "Michael Jordan",
+    "country_code": "US",
+    "province_code": "NY"
+  }
+}
